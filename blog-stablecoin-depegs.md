@@ -1,6 +1,6 @@
-# 作品集样例 #3：英文博客（750 词）
+# Stablecoin Depegs: What Actually Happens When a Dollar Isn't a Dollar
 
-**标题：Stablecoin Depegs: What Actually Happens When a Dollar Isn't a Dollar**
+*~750 words · writing sample*
 
 ---
 
@@ -49,4 +49,4 @@ The next time a stablecoin wobbles, don't ask "will it recover?" Ask "how fast c
 
 ---
 
-*字数：约 750 词 | 受众：加密进阶读者 | 用途：writing sample（与 funding rates 篇形成系列）*
+*Spec work · written from real market mechanics, no client affiliation.*
