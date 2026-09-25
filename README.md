@@ -55,14 +55,10 @@
 
 ## About
 
-<!-- TODO: replace with your real intro, 3–4 lines. Example structure:
-     who you are + years doing content/design + one proof point (audience grown, project shipped) -->
-
-Content writer & designer in crypto. I work in English and Chinese, across EU time zones.
+Crypto content writer & designer based in Spain. I turn complex on-chain ideas — funding rates, prediction markets, stablecoin mechanics — into threads, blogs, and visuals people actually read and share. Bilingual in English and Chinese, working remotely across EU time zones. My process starts from real data, not vibes: every piece is researched before it's written.
 
 ## Contact
 
-<!-- TODO: add your email / Telegram / X handle -->
-
+- Email: [laifq71@gmail.com](mailto:laifq71@gmail.com)
 - GitHub: [@laifq71-art](https://github.com/laifq71-art)
 - Open to: full-time, part-time, contract — content, social, community roles
