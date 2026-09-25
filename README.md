@@ -8,7 +8,7 @@
 
 ## What I do
 
-| | |
+| Skill | Detail |
 |---|---|
 | ✍️ **Content writing** | X threads, blogs, explainers — DeFi, prediction markets, stablecoins |
 | 🎨 **Social design** | Infographics, announcement graphics, memes — crypto-native visual language |
@@ -37,10 +37,10 @@
 
 | | |
 |---|---|
-| ![Funding Rates Explained](./funding-rates-infographic.webp) | **"Funding Rates Explained"** — educational infographic, companion to the blog post. |
-| ![Stablecoin Depeg](./stablecoin-depeg-infographic.webp) | **"What Happens in a Stablecoin Depeg"** — three-panel explainer. |
-| ![When Funding Goes Negative](./meme-bull-bear.webp) | **"When Funding Goes Negative"** — meme-style engagement graphic. |
-| ![Mainnet Is Live](./mainnet-launch-announcement.webp) | **"Mainnet Is Live"** — launch announcement graphic. |
+| <img src="./funding-rates-infographic.webp" width="380" alt="Funding Rates Explained"> | <img src="./stablecoin-depeg-infographic.webp" width="380" alt="Stablecoin Depeg"> |
+| **"Funding Rates Explained"** — educational infographic, companion to the blog post. | **"What Happens in a Stablecoin Depeg"** — three-panel explainer. |
+| <img src="./meme-bull-bear.webp" width="380" alt="When Funding Goes Negative"> | <img src="./mainnet-launch-announcement.webp" width="380" alt="Mainnet Is Live"> |
+| **"When Funding Goes Negative"** — meme-style engagement graphic. | **"Mainnet Is Live"** — launch announcement graphic. |
 
 ---
 
