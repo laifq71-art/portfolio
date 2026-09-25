@@ -1,8 +1,6 @@
-# 作品集样例 #2：英文博客（800 词）
+# Funding Rates: The Invisible Hand Moving Billions in Crypto
 
-**标题：Funding Rates: The Invisible Hand Moving Billions in Crypto**
-
-*说明：投 content/writing 岗的 writing sample。主题选永续合约资金费率——DeFi 硬核概念，写给普通读者，展示把复杂讲简单的能力。*
+*~800 words · writing sample*
 
 ---
 
@@ -67,4 +65,4 @@ The invisible hand isn't invisible. It's published every eight hours. Most peopl
 
 ---
 
-*字数：约 800 词 | 受众：加密好奇者/新手交易员 | 用途：writing sample*
+*Spec work · written from real market mechanics, no client affiliation.*
