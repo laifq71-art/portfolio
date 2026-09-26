@@ -5,7 +5,7 @@
 ---
 
 **1/** I spent a day scanning 2,100 Polymarket events for arbitrage.
-Found 789 mispriced groups. Executable profit: $0.
+Shortlisted ~260 NegRisk groups for live book checks. Executable profit: $0.
 Here's what I learned about why "free money" isn't free 🧵
 
 **2/** Most "arbitrage" you see on scanners is stale prices.
@@ -17,7 +17,7 @@ Bots arb it away in seconds. What remains needs size: a 1.5% edge on $11 capital
 Minus gas. You do the math.
 
 **4/** Copy-trading "smart money" has the same problem.
-I pulled 20 whale wallets by trade size. 18 were deep in the red — one down $6.4M.
+I pulled 20 whale wallets by trade size: 16 nominally in the red, 2 in the green, 2 flat — one down $6.4M.
 Big trades ≠ smart money. Most whales are just degens with deep pockets.
 
 **5/** The wallets that DO make money share 4 traits:
@@ -30,8 +30,8 @@ Big trades ≠ smart money. Most whales are just degens with deep pockets.
 The money is in the *filter* — knowing what to ignore.
 99% of "opportunities" die at step 2: can I actually execute this?
 
-**7/** If you're building in this space: paper-trade everything with honest latency.
-My ledger simulates 120-second delay + real order-book depth.
+**7/** If you're building in this space: paper-trade everything with honest assumptions.
+My ledger uses realistic latency and real order-book depth — no zero-latency fantasy.
 Most strategies that look profitable at 0 latency die at human latency.
 
 **8/** TL;DR: free money gets arbed away, whales are mostly fish, and the edge is in execution — not discovery.
