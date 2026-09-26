@@ -1,8 +1,8 @@
-# Portfolio — Crypto Content & Design
+# Antoni — Crypto Content & Design Portfolio
 
-> I turn complex on-chain ideas into content people actually read — and visuals they actually remember.
+> I turn complex on-chain ideas into content people actually read — and visuals they actually remember. Every claim starts from real data; when the answer is zero, I publish zero.
 
-**laifq71-art** · Based in Spain · Remote across EU time zones · 中英双语
+**Antoni** · GitHub: laifq71-art · Based in Spain · Remote across EU time zones · 中英双语
 
 ---
 
@@ -55,7 +55,7 @@
 
 ## About
 
-Crypto content writer & designer based in Spain. I turn complex on-chain ideas — funding rates, prediction markets, stablecoin mechanics — into threads, blogs, and visuals people actually read and share. Bilingual in English and Chinese, working remotely across EU time zones. My process starts from real data, not vibes: every piece is researched before it's written.
+**Antoni** — crypto content writer & designer based in Spain. I turn complex on-chain ideas — funding rates, prediction markets, stablecoin mechanics — into threads, blogs, and visuals people actually read and share. Bilingual in English and Chinese, working remotely across EU time zones. My process starts from real data, not vibes: every piece is researched before it's written, and I publish negative results too (a scanner that finds $0 of executable arb is still a finding).
 
 ## Contact
 
